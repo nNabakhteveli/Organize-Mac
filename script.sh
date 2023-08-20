@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Enter the directory path (Press Enter to use default, Downloads folder): " user_input
+read -p "Enter the directory path (For example Desktop/Personal or press Enter to use default, Downloads folder): " user_input
 
 if [ -n "$user_input" ]; then
     downloads_folder="$HOME/$user_input"
