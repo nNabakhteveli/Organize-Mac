@@ -10,13 +10,13 @@ Organize your messy folders on macOS with ease using this simple script.
 
     ```bash
     cd Organize-Mac
-    chmod +x organize.sh
+    chmod +x script.sh
     ```
 
 3. **Run the Script**: Execute the script to organize your folders.
 
     ```bash
-    ./organize.sh
+    ./script.sh
     ```
 
 4. **Sit Back and Enjoy**: Watch as the script efficiently organizes your files into neat subfolders.
